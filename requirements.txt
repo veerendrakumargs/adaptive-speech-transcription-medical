@@ -1,0 +1,15 @@
+streamlit
+pdfplumber
+SpeechRecognition
+pytesseract
+deep-translator
+torch
+openai-whisper
+numpy
+pillow
+scikit-learn
+scipy
+spacy
+soundfile
+librosa
+jiwer
